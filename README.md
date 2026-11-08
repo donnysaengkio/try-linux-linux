@@ -1,5 +1,7 @@
 # Try Linux for Linux
 
+> **Try Linux for Linux has moved** to [donnysaengkio/try-linux](https://github.com/donnysaengkio/try-linux/tree/main/linux), with the Windows and Mac editions and its full history. This repository is archived; new releases and issues are there.
+
 Try another Linux distribution on your Linux PC without repartitioning your drive. Pick a
 distribution, and Try Linux downloads the official installer, checks it against the
 distribution's published SHA-256 or SHA-512 checksum, creates a virtual disk and boots it in
